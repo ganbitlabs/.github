@@ -4,7 +4,7 @@
 -->
 
 <h1 align="center">
-  <img src="https://ganbitlabs.io/assets/logo.svg" width="160" alt="GanbitLabs logo" />
+  <img src="assets/logo.svg" width="160" alt="GanbitLabs logo" />
   <br />
   GanbitLabs • Creators of <a href="https://ganbitera.io">Ganbitera</a>
 </h1>
@@ -16,7 +16,6 @@
 
 <p align="center">
   <a href="https://twitter.com/ganbitlabs"><img alt="Follow on X" src="https://img.shields.io/twitter/follow/ganbitlabs?style=social"></a>
-  <a href="https://discord.gg/ganbitlabs"><img alt="Discord" src="https://img.shields.io/discord/000000000000000000?label=Discord"></a>
   <img alt="Status" src="https://img.shields.io/badge/code-private-critical">
 </p>
 
@@ -68,7 +67,7 @@ Although the code isn’t public yet, we welcome:
 2. **Security researchers** – apply for pre‑launch review slots.  
 3. **Integration partners** – discuss business or technical integrations.  
 
-> **Contact:** **partners@ganbitlabs.io**.
+> **Contact:** **info@ganbitlabs.io**.
 
 ---
 
