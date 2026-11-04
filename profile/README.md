@@ -4,7 +4,6 @@
 -->
 
 <h1 align="center">
-  <img src="assets/logo.svg" width="160" alt="GanbitLabs logo" />
   <br />
   GanbitLabs • Creators of <a href="https://ganbitera.io">Ganbitera</a>
 </h1>
